@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="my_name">Jose Lira</string>
+    <string name="position">Android Developer Extraordinaire</string>
+    <string name="phone_number">+503 7777-7777</string>
+    <string name="share">LiraDev</string>
+    <string name="email">jose@android.com</string>
+</resources>
